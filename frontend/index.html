@@ -1,0 +1,36 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Darukaa.Earth — AI Biodiversity Intelligence</title>
+<link rel="stylesheet" href="/frontend/style.css">
+</head>
+<body>
+<div class="app">
+<header><div class="brand"><span class="leaf">◈</span><div><b>Darukaa.Earth</b><small>AI Biodiversity Intelligence</small></div></div><span class="badge">RAG • Multi-metric • Explainable</span></header>
+<main>
+<section class="hero"><div><p class="eyebrow">ENVIRONMENTAL DECISION SUPPORT</p><h1>Turn field observations into <em>evidence-grounded</em> action.</h1><p>Describe your land, soil, climate and human-impact conditions. Darukaa.Earth asks for missing high-value variables, retrieves evidence and produces a traceable recommendation.</p></div></section>
+<div class="grid">
+<section class="panel">
+<h2>Environmental query</h2>
+<p class="hint">Try the demo scenario below or enter your own observations.</p>
+<textarea id="message">Soil organic carbon: 0.3%. Rainfall: low. Crop: monoculture wheat. Region: semi-arid.</textarea>
+<div class="fields">
+<label>SOC %<input id="soc" type="number" step="0.1" placeholder="e.g. 0.3"></label>
+<label>pH<input id="ph" type="number" step="0.1" placeholder="e.g. 6.8"></label>
+<label>Moisture %<input id="moist" type="number" step="1" placeholder="e.g. 25"></label>
+<label>Rainfall<input id="rain" placeholder="low / normal / high"></label>
+<label>Land use<input id="land" placeholder="monoculture / mixed / forest"></label>
+<label>Pollution index<input id="poll" type="number" step="0.1" placeholder="0–1"></label>
+</div>
+<button id="analyze">Analyze ecosystem</button>
+<div id="clarify" class="clarify hidden"></div>
+</section>
+<section class="panel result"><div class="result-head"><h2>Evidence-grounded result</h2><span id="status">Ready</span></div><div id="output"><div class="empty">Your recommendation, reasoning, metrics, horizon and retrieved sources will appear here.</div></div></section>
+</div>
+</main>
+<footer>Darukaa.Earth • Hackathon prototype • No API keys required for local demo</footer>
+</div>
+<script src="/frontend/app.js"></script>
+</body></html>

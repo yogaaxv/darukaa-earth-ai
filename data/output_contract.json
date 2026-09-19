@@ -1,0 +1,18 @@
+{
+  "recommendation": "...",
+  "why_it_works": "...",
+  "impacted_metrics": [
+    "soil organic carbon",
+    "soil moisture retention",
+    "habitat diversity"
+  ],
+  "time_horizon": "short/medium/long",
+  "confidence": 0.0,
+  "evidence": [
+    {
+      "title": "...",
+      "organization": "...",
+      "url": "..."
+    }
+  ]
+}

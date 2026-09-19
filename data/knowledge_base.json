@@ -1,0 +1,51 @@
+
+[
+  {
+    "title":"The State of Knowledge of Soil Biodiversity",
+    "organization":"FAO",
+    "year":2020,
+    "topic":"soil biodiversity",
+    "url":"https://www.fao.org/interactive/soil-biodiversity/en/",
+    "text":"Soil biodiversity supports nutrient cycling, plant growth, soil productivity, water filtration, carbon sequestration and environmental protection. Sustainable soil management can help prevent soil biodiversity loss."
+  },
+  {
+    "title":"Soil organic carbon",
+    "organization":"FAO Global Soil Partnership",
+    "year":2026,
+    "topic":"soil carbon and soil health",
+    "url":"https://www.fao.org/global-soil-partnership/programmes/recsoil/soil-organic-carbon/en/",
+    "text":"Soil organic carbon is a key indicator of soil health. Soil organic matter stores and releases water and nutrients necessary for plant growth and contributes to soil ecosystem services and resilience."
+  },
+  {
+    "title":"Agroforestry",
+    "organization":"FAO",
+    "year":2026,
+    "topic":"agroforestry biodiversity water soil",
+    "url":"https://www.fao.org/americas/priorities/agricultura-sostenible/agrofesteria/en",
+    "text":"Agroforestry integrates trees with crops or livestock. It can strengthen soil fertility, water regulation, biodiversity and resilience. Local conditions and species selection matter."
+  },
+  {
+    "title":"Agroforestry boosts soil health in the humid and sub-humid tropics: A meta-analysis",
+    "organization":"FAO Agroecology",
+    "year":2020,
+    "topic":"agroforestry soil health",
+    "url":"https://www.fao.org/agroecology/in-action/detail/agroforestry-boosts-soil-health-in-the-humid-and-sub-humid-tropics-a-meta-analysis/en/",
+    "text":"A meta-analysis reported lower erosion, higher infiltration and increased soil organic carbon under agroforestry compared with crop monocultures in the humid and sub-humid tropics. Effects are context dependent."
+  },
+  {
+    "title":"Soil organic cover",
+    "organization":"FAO Conservation Agriculture",
+    "year":2026,
+    "topic":"cover crops semi-arid soil biodiversity",
+    "url":"https://www.fao.org/conservation-agriculture/in-practice/soil-organic-cover/en/",
+    "text":"Keeping soil covered with residues or cover crops can protect soil, recycle nutrients, improve structure and promote biodiversity in agro-ecosystems. Cover crops can be useful in semi-arid or degraded areas."
+  },
+  {
+    "title":"5 science-backed solutions for a climate-resilient future",
+    "organization":"FAO",
+    "year":2025,
+    "topic":"climate resilience agroforestry",
+    "url":"https://www.fao.org/interactive/2025/climate-and-agrifood-systems/en/",
+    "text":"FAO describes agroforestry as a climate-resilient practice that can help with drought and flood resilience, soil health, carbon sequestration and biodiversity. Benefits vary by site and design."
+  }
+]
